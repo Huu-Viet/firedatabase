@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685901186377",
+    "project_id": "momo-9bb17",
+    "storage_bucket": "momo-9bb17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685901186377:android:95c94d156de052ae870698",
+        "android_client_info": {
+          "package_name": "com.example.firedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZNzI-4n5ujqjQujK3BxxeNUDUaeSml6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
